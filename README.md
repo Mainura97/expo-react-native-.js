@@ -15,9 +15,14 @@ npm install --global expo-cli
 ```
 
 ## Create a new app
+Initializing the project
+
 ```expo
 # Select the "blank" template when prompted. 'mynewapp' is name project
 expo init mynewapp
+```
+```expo
+cd mynewapp
 ```
 
 ## Starting the development server
